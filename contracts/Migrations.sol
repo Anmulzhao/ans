@@ -1,4 +1,4 @@
-pragma solidity ^0.7.0;
+pragma solidity ^0.8.24;
 
 /**
  * Truffle migration helper contract
